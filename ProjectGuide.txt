@@ -1,0 +1,10 @@
+======================== HONORS PROJECT - STOCK PRICE PREDICTOR ========================
+
+
+1. Ensure that you have the necessary libraries installed by using the following command:
+
+> pip install numpy pandas keras scikit-learn yfinance plotly streamlit
+
+2. To execute the Streamlit web app, run the following command:
+
+> streamlit run app.py
