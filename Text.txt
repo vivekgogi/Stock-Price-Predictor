@@ -8,5 +8,3 @@
 2. To execute the Streamlit web app, run the following command:
 
 > streamlit run app.py
-
-Deploy this app on Streamlit Cloud.
